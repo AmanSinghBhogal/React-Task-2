@@ -1,0 +1,49 @@
+.Comment__Container{ 
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+
+.Comment__ProfilePicSection{
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+}
+
+.Comment__Content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 0px 5px;
+}
+@media screen and (max-width: 756px) {
+    .Comment__title{
+        width: fit-content;
+    }
+}
+
+.Comment__title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    width: 60%;
+    margin-bottom: 2px;
+    color: hsla(0,0%,100%,.6);
+}
+
+.Comment__body{
+    margin-top: 2px;
+    font-size: 1rem;
+    overflow-y: auto;
+}
+
+#fromDate{
+    font-size: 0.6rem;
+}

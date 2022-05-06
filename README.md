@@ -2,14 +2,13 @@
   <h1 align="center"> React Task 2 Aman Singh Bhogal</h1>
 </div>
 
-<h2>Deployment Link: </h2>
+<h2>Deployment Link: https://reacttask-2.web.app/</h2>
 
 ### ScreenShots:
 
 <div align="center">
-  <!-- <img src="./public/images/a.jpg" height="600"  alt="SS1">
-  <img src="./public/images/b.jpg" height="600"  alt="SS1">
-  <img src="./public/images/c.jpg" height="600"  alt="SS1"> -->
+  <img src="./public/images/A.jpg" height="600"  alt="SS1">
+  <img src="./public/images/B.jpg" height="600"  alt="SS2">
 </div>
 
 ### Steps to Run on Local Machine

@@ -18,6 +18,13 @@ const Comments = () => {
             date: new Date(2022,1,26,20,10,15,10),
             commentMessage: 'This is a Great Post',
             profileImg: '/images/Profile.jpg'
+        },
+        {
+            id: 3,
+            name: 'Ashish Sharma',
+            date: new Date(2022,1,26,20,10,15,10),
+            commentMessage: 'Awesome',
+            profileImg: '/images/Profile_2.jpg'
         }
     ];
 
